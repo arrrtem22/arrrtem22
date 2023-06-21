@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Software Engineer who has an in-depth understanding of Flutter<br>
-Also, working with Java stack on my own back-end projects<br>
+Also, working with Java backend stack<br>
 
 Shoot me an Email or add me on LinkedIn
 
