@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer from Ukraine with experience in Node.js, Java, and Flutter
+I'm a Software Engineer from Ukraine with experience in Python, Node.js, and Flutter
 
 Shoot me an Email or add me on LinkedIn
 
